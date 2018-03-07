@@ -18,5 +18,10 @@ Random
 
 sudo apt-get install python-pip
 
+# Updates:
+
+Join the Discord to stay updated with work on here:
+https://discord.gg/2AhbwyZ
+
 
 
